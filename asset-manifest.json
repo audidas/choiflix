@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/choiflix/static/js/main.6b633317.chunk.js",
-    "main.js.map": "/choiflix/static/js/main.6b633317.chunk.js.map",
+    "main.js": "/choiflix/static/js/main.d4b27b3f.chunk.js",
+    "main.js.map": "/choiflix/static/js/main.d4b27b3f.chunk.js.map",
     "runtime-main.js": "/choiflix/static/js/runtime-main.27932377.js",
     "runtime-main.js.map": "/choiflix/static/js/runtime-main.27932377.js.map",
     "static/js/2.515c6dde.chunk.js": "/choiflix/static/js/2.515c6dde.chunk.js",
     "static/js/2.515c6dde.chunk.js.map": "/choiflix/static/js/2.515c6dde.chunk.js.map",
     "index.html": "/choiflix/index.html",
-    "precache-manifest.fcbec73f8d93cc9824dad58b820be8d6.js": "/choiflix/precache-manifest.fcbec73f8d93cc9824dad58b820be8d6.js",
+    "precache-manifest.24af617e9b4591ba3c68e8a5f974f43e.js": "/choiflix/precache-manifest.24af617e9b4591ba3c68e8a5f974f43e.js",
     "service-worker.js": "/choiflix/service-worker.js",
     "static/js/2.515c6dde.chunk.js.LICENSE": "/choiflix/static/js/2.515c6dde.chunk.js.LICENSE",
     "static/media/noPosterSmall.png": "/choiflix/static/media/noPosterSmall.87a0eb6a.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.27932377.js",
     "static/js/2.515c6dde.chunk.js",
-    "static/js/main.6b633317.chunk.js"
+    "static/js/main.d4b27b3f.chunk.js"
   ]
 }

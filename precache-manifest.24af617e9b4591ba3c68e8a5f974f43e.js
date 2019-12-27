@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe3db5b99cb853efcd72367ae61d0182",
+    "revision": "597bba42d35bf815ce8bd592a1f1c266",
     "url": "/choiflix/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/choiflix/static/js/2.515c6dde.chunk.js.LICENSE"
   },
   {
-    "revision": "0a0d8849ba814e47d903",
-    "url": "/choiflix/static/js/main.6b633317.chunk.js"
+    "revision": "19aa234283a2926a6540",
+    "url": "/choiflix/static/js/main.d4b27b3f.chunk.js"
   },
   {
     "revision": "762be1c85a60865192bf",
